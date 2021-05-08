@@ -1,0 +1,5 @@
+# git command
+1. git status: to check the status
+2. git add : to add the changes
+3. git commint: to commit the changes
+4. git 

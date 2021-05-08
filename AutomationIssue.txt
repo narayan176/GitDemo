@@ -1,0 +1,1 @@
+1. for automation string is not entering: then how to check test.
